@@ -11,8 +11,6 @@
 🌐 Social links — ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/goutham-harigovind-9b836b240/))
 
 
-🎨 Theme preference — colorful?
--->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamharigovind&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamharigovind&layout=compact&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gouthamharigovind&theme=onedark)
