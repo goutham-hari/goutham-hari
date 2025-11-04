@@ -8,7 +8,8 @@
 
 📫 Contact email — gouthamharigovind@gmail.com
 
-🌐 Social links — https://www.linkedin.com/in/goutham-harigovind-9b836b240/
+🌐 Social links — ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/goutham-harigovind-9b836b240/))
+
 
 🎨 Theme preference — colorful?
 -->
@@ -18,7 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 - 🔭 Currently working on **Web Development**
 - 🌱 Learning **cybersequirity & Networks**
