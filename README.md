@@ -22,8 +22,5 @@
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 
-- 🔭 Currently working on **Web Development**
-- 🌱 Learning **cybersequirity & Networks**
-- 💬 Ask me about **React, Node.js**
-- 📫 Reach me at **youremail@gmail.com**
+
 
