@@ -8,8 +8,7 @@
 
 📫 Contact email — gouthamharigovind@gmail.com
 
-🌐 Social links — ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/goutham-harigovind-9b836b240/))
-
+🌐 Social links — ![((https://www.linkedin.com/in/goutham-harigovind-9b836b240/))](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamharigovind&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamharigovind&layout=compact&theme=radical)
