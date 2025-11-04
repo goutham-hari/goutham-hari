@@ -14,6 +14,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamharigovind&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamharigovind&layout=compact&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gouthamharigovind&theme=onedark)
+
+
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
