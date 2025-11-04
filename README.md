@@ -8,7 +8,7 @@
 
 📫 Contact email — gouthamharigovind@gmail.com
 
-🌐 Social links — ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/goutham-harigovind-9b836b240/))
+🌐 Social links — ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/goutham-harigovind-9b836b240/))
 
 
 🎨 Theme preference — colorful?
