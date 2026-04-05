@@ -69,13 +69,7 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goutham-hari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham-hari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-hari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
