@@ -62,7 +62,7 @@ me.say_hi()
 - 🗄️ MySQL database with Hibernate ORM
 - 🚀 Deployed live on Render
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://expense-tracker-7ed6.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://expense-tracker-562939346679.asia-south1.run.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goutham-hari/expense-tracker)
 
 ---
