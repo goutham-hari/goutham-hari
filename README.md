@@ -60,19 +60,45 @@ me.say_hi()
 - 🔐 JWT Authentication & Spring Security
 - 📊 Interactive pie charts with Chart.js
 - 🗄️ MySQL database with Hibernate ORM
-- 🚀 Deployed live on Render
+- 🚀 Built with Java Spring Boot + React
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://expense-tracker-562939346679.asia-south1.run.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goutham-hari/expense-tracker)
+
+---
+
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goutham-hari&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 🤝 How I Contribute
+- 🐛 Reporting and fixing bugs in projects I use
+- 📝 Improving documentation and README files
+- 🔍 Reviewing pull requests and providing feedback
+- 💡 Suggesting and implementing new features
+- 🧪 Writing tests to improve code coverage
+
+> 💬 *"Open source is not just about code — it's about community."*
 
 ---
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goutham-hari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-hari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham-hari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -83,6 +109,7 @@ me.say_hi()
 - 💻 Building full-stack projects with **Java Spring Boot**
 - 🔐 Learning **Cybersecurity** & ethical hacking
 - 📊 Exploring **Power BI** & data analytics
+- 🌱 Contributing to **open source** communities
 - 🌱 Always learning something new!
 
 ---
@@ -95,8 +122,6 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-harigovind-9b836b240/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goutham-hari)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/goutham-hari/)
-
-</div>
 
 </div>
 
