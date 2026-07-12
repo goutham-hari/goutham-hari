@@ -76,15 +76,6 @@ me.say_hi()
 
 </div>
 
-### 🤝 How I Contribute
-- 🐛 Reporting and fixing bugs in projects I use
-- 📝 Improving documentation and README files
-- 🔍 Reviewing pull requests and providing feedback
-- 💡 Suggesting and implementing new features
-- 🧪 Writing tests to improve code coverage
-
-> 💬 *"Open source is not just about code — it's about community."*
-
 ---
 
 ## 📊 GitHub Stats
